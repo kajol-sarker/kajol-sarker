@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, About Me:</h1>
 <h3 align="center">Data Scientist</h3>
 
@@ -7,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 💬 Ask me about **Java,Python,Numpy,Pandas,Matplotlib,Scikit Learn,**
+- 💬 Ask me about **Java, Python, Numpy ,Panda s,Matplotl ib,Scikit Learn,**
 
 - 📫 How to reach me **mdmuntasir865@gmail.com**
 
