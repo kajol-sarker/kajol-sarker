@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, About Me:</h1>
+<h1 align="center">About Me:</h1>
 <h3 align="center">Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajol-sarker&label=Profile%20views&color=0e75b6&style=flat" alt="kajol-sarker" /> </p>
