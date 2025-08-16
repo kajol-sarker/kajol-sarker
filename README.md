@@ -1,5 +1,5 @@
-<h1 align="center">🚀 Kajol Sarker</h1>
-<h3 align="center">Aspiring Data Scientist | ML Explorer | SQL Enthusiast</h3>
+<h1 align="center">🚀 Md. Kajol Sarker</h1>
+<h3 align="center">Aspiring Data Analyst | ML Explorer | SQL Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kajol-sarker&label=Profile%20views&color=blueviolet&style=flat-square" alt="kajol-sarker" />
@@ -7,7 +7,7 @@
 
 ---
 
-## 🧍‍♀️ About Me
+## 👨‍💼 About Me
 
 <p align="center">
 Aspiring Data Science and Machine Learning professional with a strong foundation in Python programming and data analysis libraries including NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn. Skilled in SQL using MySQL Workbench, with hands-on experience in data preprocessing, visualization, and basic model building. Currently pursuing specialized training in Data Science and Machine Learning, aiming to build a career as a Data Analyst, Data Engineer, Machine Learning Engineer, MLOps Specialist, or Business Analyst. Passionate about turning data into actionable insights and delivering impactful solutions.
@@ -35,6 +35,7 @@ Aspiring Data Science and Machine Learning professional with a strong foundation
   </a>
 </div>
 
+
 ---
 
 ## 💻 Programming Languages
@@ -50,44 +51,7 @@ Aspiring Data Science and Machine Learning professional with a strong foundation
 
 ---
 
-## 🛠️ Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
-
----
-
-## 🧩 Others
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-</div>
-
----
-
-## 🖌️ Software
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
-
----
-
-## 🗄️ Databases
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
-
----
-
-## 🤖 AI / ML Libraries
+## 🤖 Python Library's
 
 <div align="center">
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -100,6 +64,85 @@ Aspiring Data Science and Machine Learning professional with a strong foundation
 </div>
 
 ---
+
+
+## 🛠️ Development Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Localhost-000000?style=for-the-badge&logo=apache&logoColor=white" />
+</div>
+
+---
+
+## 🧑‍💻 Development Environments
+
+<div align="center">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-1D7C8A?style=for-the-badge&logo=pycharm&logoColor=white" />
+</div>
+
+
+## ⚙️ System & Core Utilities
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</div>
+
+---
+
+## 🖌️ Design & UI Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</div>
+
+---
+
+## 🧠 Diagramming & Engineering
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Draw.io-FEA500?style=for-the-badge&logo=diagrams.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoCAD-EF3B24?style=for-the-badge&logo=autodesk&logoColor=white" />
+</div>
+
+---
+
+## 🌐 Networking Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1D63ED?style=for-the-badge&logo=cisco&logoColor=white" />
+</div>
+
+---
+
+## 📊 Data Visualization
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</div>
+
+---
+
+
+## 🗄️ Databases
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
+
 
 ## 📊 GitHub Stats
 
