@@ -1,12 +1,10 @@
-
-
-<h1 align="center">About Me:
+<h1 align="center">About Me:</h1>h1>
 <p>Aspiring Data Science and Machine Learning professional with a strong foundation in Python programming and data
  analysis libraries including NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn. Skilled in SQL using MySQL Work
 bench, with hands-on experience in data preprocessing, visualization, and basic model building. Currently pursuing
  specialized training in Data Science and Machine Learning, aiming to build a career as a Data Analyst, Data Engineer,
  Machine Learning Engineer, MLOps Specialist, or Business Analyst. Passionate about turning data into actionable in
-sights and delivering impactful solutions.</p></h1>
+sights and delivering impactful solutions.</p><
 
 <h3 align="center">Data Analyst</h3>
 
