@@ -8,9 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kajol-sarker" alt="kajol-sarker" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
-
-- 💬 Ask me about **Java, Python, Numpy ,Panda s,Matplotl ib,Scikit Learn,**
-
+- 💬 Ask me about **Java, Python, Numpy ,Pandas, Machine Learning, SQL**
 - 📫 How to reach me **mdmuntasir865@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
