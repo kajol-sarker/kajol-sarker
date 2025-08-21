@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=kajol-sarker&label=Profile%20views&color=blueviolet&style=flat-square" alt="kajol-sarker" />
 </p>
 
----
-
 ## 👨‍💼 About Me
 
 <p align="center">
