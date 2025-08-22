@@ -5,13 +5,19 @@
   <img src="https://komarev.com/ghpvc/?username=kajol-sarker&label=Profile%20views&color=blueviolet&style=flat-square" alt="kajol-sarker" />
 </p>
 
+<!-- This is a single-line HTML comment -->
+<!--   --- 3ta dash mane holo ekta new line nebe-->
+<!--
+  This is multi-line HTML comment.
+-->
+
+
 ## 👨‍💼 About Me
 
 <p align="center">
 Aspiring Data Science and Machine Learning professional with a strong foundation in Python programming and data analysis libraries including NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn. Skilled in SQL using MySQL Workbench, with hands-on experience in data preprocessing, visualization, and basic model building. Currently pursuing specialized training in Data Science and Machine Learning, aiming to build a career as a Data Analyst, Data Engineer, Machine Learning Engineer, MLOps Specialist, or Business Analyst. Passionate about turning data into actionable insights and delivering impactful solutions.
 </p>
 
----
 
 ## 🌐 Social Links
 
@@ -34,7 +40,6 @@ Aspiring Data Science and Machine Learning professional with a strong foundation
 </div>
 
 
----
 
 ## 💻 Programming Languages
 
@@ -47,7 +52,7 @@ Aspiring Data Science and Machine Learning professional with a strong foundation
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
----
+
 
 ## 🤖 Python Library's
 
@@ -61,7 +66,6 @@ Aspiring Data Science and Machine Learning professional with a strong foundation
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </div>
 
----
 
 
 ## 🛠️ Development Tools
@@ -74,7 +78,6 @@ Aspiring Data Science and Machine Learning professional with a strong foundation
   <img src="https://img.shields.io/badge/Localhost-000000?style=for-the-badge&logo=apache&logoColor=white" />
 </div>
 
----
 
 ## 🧑‍💻 Development Environments
 
@@ -96,7 +99,7 @@ Aspiring Data Science and Machine Learning professional with a strong foundation
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </div>
 
----
+
 
 ## 🖌️ Design & UI Tools
 
@@ -105,7 +108,7 @@ Aspiring Data Science and Machine Learning professional with a strong foundation
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </div>
 
----
+
 
 ## 🧠 Diagramming & Engineering
 
@@ -114,7 +117,7 @@ Aspiring Data Science and Machine Learning professional with a strong foundation
   <img src="https://img.shields.io/badge/AutoCAD-EF3B24?style=for-the-badge&logo=autodesk&logoColor=white" />
 </div>
 
----
+
 
 ## 🌐 Networking Tools
 
@@ -122,7 +125,7 @@ Aspiring Data Science and Machine Learning professional with a strong foundation
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1D63ED?style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
----
+
 
 ## 📊 Data Visualization
 
@@ -130,7 +133,7 @@ Aspiring Data Science and Machine Learning professional with a strong foundation
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </div>
 
----
+
 
 
 ## 🗄️ Databases
@@ -148,7 +151,7 @@ Aspiring Data Science and Machine Learning professional with a strong foundation
   <img src="https://github-readme-stats.vercel.app/api?username=kajol-sarker&show_icons=true&theme=merko" />
 </p>
 
----
+
 
 ## 🔥 Streak Stats
 
@@ -156,7 +159,7 @@ Aspiring Data Science and Machine Learning professional with a strong foundation
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kajol-sarker&theme=merko" />
 </p>
 
----
+
 
 ## 🧮 Most Used Languages
 
@@ -164,7 +167,7 @@ Aspiring Data Science and Machine Learning professional with a strong foundation
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajol-sarker&layout=compact&theme=merko" />
 </p>
 
----
+
 
 ## 🏆 GitHub Trophies
 
@@ -172,7 +175,7 @@ Aspiring Data Science and Machine Learning professional with a strong foundation
   <img src="https://github-profile-trophy.vercel.app/?username=kajol-sarker&theme=darkhub" />
 </p>
 
----
+
 
 ## 🎯 Final Note
 
